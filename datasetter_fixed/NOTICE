@@ -1,0 +1,69 @@
+blueplaysgames3921 — Third-Party Notices
+=================================
+
+blueplaysgames3921 is built on open-source components. The following notices are
+provided to satisfy the attribution requirements of their respective licenses.
+
+-------------------------------------------------------------------------------
+Tauri
+License: Apache-2.0 / MIT
+https://tauri.app
+Copyright (c) 2019-present Tauri Programme within The Commons Conservancy
+
+-------------------------------------------------------------------------------
+FastAPI
+License: MIT
+https://fastapi.tiangolo.com
+Copyright (c) 2018 Sebastián Ramírez
+
+-------------------------------------------------------------------------------
+LiteLLM
+License: MIT
+https://github.com/BerriAI/litellm
+Copyright (c) 2023 BerriAI
+
+-------------------------------------------------------------------------------
+Pydantic
+License: MIT
+https://docs.pydantic.dev
+Copyright (c) 2017-present Pydantic Services Inc. and individual contributors
+
+-------------------------------------------------------------------------------
+React
+License: MIT
+https://react.dev
+Copyright (c) Meta Platforms, Inc. and affiliates
+
+-------------------------------------------------------------------------------
+Zustand
+License: MIT
+https://github.com/pmndrs/zustand
+Copyright (c) 2019 Paul Henschel
+
+-------------------------------------------------------------------------------
+Vite
+License: MIT
+https://vitejs.dev
+Copyright (c) 2019-present, VoidZero Inc.
+
+-------------------------------------------------------------------------------
+Uvicorn
+License: BSD-3-Clause
+https://www.uvicorn.org
+Copyright (c) 2017-present, Tom Christie
+
+-------------------------------------------------------------------------------
+openpyxl
+License: MIT
+https://openpyxl.readthedocs.io
+Copyright (c) 2010 openpyxl
+
+-------------------------------------------------------------------------------
+PyArrow
+License: Apache-2.0
+https://arrow.apache.org
+Copyright (c) 2016-present Apache Software Foundation
+
+-------------------------------------------------------------------------------
+Full license texts for each component are available in their respective
+source repositories.

@@ -1,0 +1,17 @@
+{
+  "name": "datasetter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev":           "tauri dev",
+    "build":         "tauri build",
+    "ui:dev":        "cd src-ui && npm run dev",
+    "ui:build":      "cd src-ui && npm run build",
+    "py:install":    "cd src-py && pip install -r requirements.txt --break-system-packages",
+    "py:dev":        "cd src-py && python main.py",
+    "setup":         "npm run py:install && cd src-ui && npm install"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.0.0"
+  }
+}
