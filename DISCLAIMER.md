@@ -1,6 +1,6 @@
 # blueplaysgames3921 — Disclaimer
 
-**Last updated:** 2025
+**Last updated:** 2026
 
 ---
 
